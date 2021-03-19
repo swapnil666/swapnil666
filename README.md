@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @swapnil666
-- 👀 I’m interested in Coding
+- 👋 Hi, I’m Swapnil Verma
+- 👀 I’m interested in mathematics and coding
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vermaswapnil777@gmail.com
