@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vermaswapnil777@gmail.com
-- 
+- Ask me about statistics and artificial intelligence
 
 <!---
 swapnil666/swapnil666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
